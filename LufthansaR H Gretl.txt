@@ -1,0 +1,21 @@
+Valori dell'intervallo riscalato per v1
+(i logaritmi sono in base 2)
+
+Dimensione   RS(media) log(Dimensione)     log(RS)
+      2535      58,398          11,308      5,8678
+      1267      50,450          10,307      5,6568
+       633      35,827          9,3061      5,1630
+       316      24,748          8,3038      4,6292
+       158      14,947          7,3038      3,9018
+        79      10,079          6,3038      3,3332
+        39      6,6339          5,2854      2,7299
+        19      4,5047          4,2479      2,1714
+         9      2,8082          3,1699      1,4896
+
+Risultati della regressione (n = 9)
+
+                    coeff  errore std.
+  Intercetta     -0,20855      0,13957
+    Pendenza      0,56183     0,018039
+
+Esponente di Hurst stimato = 0,561828
