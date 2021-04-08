@@ -1,2 +1,2 @@
 # Fractal-market-analysis-with-Hurst-exponent
-Long term memory analysis in European market using Hurst exponent for Master's thesis project
+Rescaled range analysis in European market using Hurst exponent for Master's thesis project with the aim to investigate long term memory in stock price variations
